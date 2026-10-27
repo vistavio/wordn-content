@@ -1,3 +1,22 @@
 {
- "packs": []
+ "packs": [
+  {
+   "id": "kitchen",
+   "version": 1,
+   "min_app": 1,
+   "file": "kitchen_v1.zip",
+   "size": 104400,
+   "sha256": "e80185cf5c20655166524cc10e12e5f19e7b14de4c119aaac2dcf457d72f9bc7",
+   "url": "https://cdn.jsdelivr.net/gh/vistavio/wordn-content@f9908e8e1181bc91970d35d0e4211e136f8a28b4/kitchen_v1.zip"
+  },
+  {
+   "id": "garden",
+   "version": 1,
+   "min_app": 4,
+   "file": "garden_v1.zip",
+   "size": 233660,
+   "sha256": "baf995e116e0ead7285cd7b624d3af30a8cca393f58f92c129939ba8180aae34",
+   "url": "https://cdn.jsdelivr.net/gh/vistavio/wordn-content@f9908e8e1181bc91970d35d0e4211e136f8a28b4/garden_v1.zip"
+  }
+ ]
 }
