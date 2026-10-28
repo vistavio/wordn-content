@@ -1,0 +1,171 @@
+{
+ "date": "2026-10-29",
+ "lang": "tr",
+ "width": 12,
+ "height": 12,
+ "secret": "KARDEŞ",
+ "secret_cells": [
+  [
+   5,
+   7
+  ],
+  [
+   0,
+   7
+  ],
+  [
+   2,
+   10
+  ],
+  [
+   1,
+   7
+  ],
+  [
+   7,
+   3
+  ],
+  [
+   9,
+   3
+  ]
+ ],
+ "words": [
+  {
+   "n": 3,
+   "dir": "across",
+   "x": 5,
+   "y": 0,
+   "answer": "GENİŞ",
+   "clue": "Dar kelimesinin zıt anlamlısı"
+  },
+  {
+   "n": 6,
+   "dir": "across",
+   "x": 0,
+   "y": 3,
+   "answer": "ARMUT",
+   "clue": "Elmaya benzeyen, alt kısmı geniş meyve"
+  },
+  {
+   "n": 8,
+   "dir": "across",
+   "x": 4,
+   "y": 5,
+   "answer": "PORTAKAL",
+   "clue": "Kışın yenen, turuncu meyve"
+  },
+  {
+   "n": 12,
+   "dir": "across",
+   "x": 0,
+   "y": 7,
+   "answer": "ADA",
+   "clue": "Dört tarafı suyla çevrili kara parçası"
+  },
+  {
+   "n": 13,
+   "dir": "across",
+   "x": 4,
+   "y": 7,
+   "answer": "AKILLI",
+   "clue": "Zeki kelimesinin eş anlamlısı"
+  },
+  {
+   "n": 14,
+   "dir": "across",
+   "x": 1,
+   "y": 9,
+   "answer": "HIZLI",
+   "clue": "Yavaş kelimesinin zıt anlamlısı"
+  },
+  {
+   "n": 16,
+   "dir": "across",
+   "x": 6,
+   "y": 10,
+   "answer": "SOĞAN",
+   "clue": "Doğrarken göz yaşartan sebze"
+  },
+  {
+   "n": 1,
+   "dir": "down",
+   "x": 0,
+   "y": 0,
+   "answer": "ELMAS",
+   "clue": "En sert ve en değerli taş"
+  },
+  {
+   "n": 2,
+   "dir": "down",
+   "x": 3,
+   "y": 0,
+   "answer": "SORU",
+   "clue": "Cevap kelimesinin zıt anlamlısı"
+  },
+  {
+   "n": 4,
+   "dir": "down",
+   "x": 7,
+   "y": 0,
+   "answer": "NİNE",
+   "clue": "Anne ya da babanın annesi"
+  },
+  {
+   "n": 5,
+   "dir": "down",
+   "x": 9,
+   "y": 0,
+   "answer": "ŞİMŞEK",
+   "clue": "Fırtınada gökte çakan ışık"
+  },
+  {
+   "n": 7,
+   "dir": "down",
+   "x": 4,
+   "y": 3,
+   "answer": "TOP",
+   "clue": "Yuvarlak oyun aracı"
+  },
+  {
+   "n": 9,
+   "dir": "down",
+   "x": 7,
+   "y": 5,
+   "answer": "TELEFON",
+   "clue": "Uzaktaki biriyle konuşmaya yarayan araç"
+  },
+  {
+   "n": 10,
+   "dir": "down",
+   "x": 11,
+   "y": 5,
+   "answer": "LİMON",
+   "clue": "Ekşi, sarı meyve"
+  },
+  {
+   "n": 11,
+   "dir": "down",
+   "x": 2,
+   "y": 6,
+   "answer": "SABIR",
+   "clue": "Beklemeye ve zorluğa katlanma gücü"
+  },
+  {
+   "n": 13,
+   "dir": "down",
+   "x": 4,
+   "y": 7,
+   "answer": "ANLAM",
+   "clue": "Bir kelimenin karşılığı; mana"
+  },
+  {
+   "n": 15,
+   "dir": "down",
+   "x": 9,
+   "y": 9,
+   "answer": "ÇAY",
+   "clue": "Demlenerek içilen sıcak içecek"
+  }
+ ]
+}
