@@ -7,7 +7,7 @@
    "file": "kitchen_v1.zip",
    "size": 104400,
    "sha256": "e80185cf5c20655166524cc10e12e5f19e7b14de4c119aaac2dcf457d72f9bc7",
-   "url": "https://cdn.jsdelivr.net/gh/vistavio/wordn-content@ba6db140875b327969a17b519f9e7bb36003a1a1/kitchen_v1.zip"
+   "url": "https://cdn.jsdelivr.net/gh/vistavio/wordn-content@7d980085f42579a73faf702c0cea5ab5d3e67d29/kitchen_v1.zip"
   },
   {
    "id": "garden",
@@ -16,16 +16,16 @@
    "file": "garden_v1.zip",
    "size": 233660,
    "sha256": "baf995e116e0ead7285cd7b624d3af30a8cca393f58f92c129939ba8180aae34",
-   "url": "https://cdn.jsdelivr.net/gh/vistavio/wordn-content@ba6db140875b327969a17b519f9e7bb36003a1a1/garden_v1.zip"
+   "url": "https://cdn.jsdelivr.net/gh/vistavio/wordn-content@7d980085f42579a73faf702c0cea5ab5d3e67d29/garden_v1.zip"
   },
   {
    "id": "park",
-   "version": 1,
+   "version": 2,
    "min_app": 4,
-   "file": "park_v1.zip",
-   "size": 784656,
-   "sha256": "8f51b5cfa47e81eb0b5b72898a402efd3258fe4a515a853a8fda116188ea8ba6",
-   "url": "https://cdn.jsdelivr.net/gh/vistavio/wordn-content@ba6db140875b327969a17b519f9e7bb36003a1a1/park_v1.zip"
+   "file": "park_v2.zip",
+   "size": 811012,
+   "sha256": "83804b01ec8d432d4782bbf2424748df2a8418dfd6ef6d319a1e14be7e0e955b",
+   "url": "https://cdn.jsdelivr.net/gh/vistavio/wordn-content@7d980085f42579a73faf702c0cea5ab5d3e67d29/park_v2.zip"
   }
  ]
 }
