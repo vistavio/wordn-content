@@ -1,0 +1,171 @@
+{
+ "date": "2026-11-01",
+ "lang": "tr",
+ "width": 12,
+ "height": 13,
+ "secret": "ŞELALE",
+ "secret_cells": [
+  [
+   11,
+   10
+  ],
+  [
+   6,
+   6
+  ],
+  [
+   5,
+   12
+  ],
+  [
+   5,
+   10
+  ],
+  [
+   8,
+   0
+  ],
+  [
+   9,
+   4
+  ]
+ ],
+ "words": [
+  {
+   "n": 1,
+   "dir": "across",
+   "x": 6,
+   "y": 0,
+   "answer": "BULUT",
+   "clue": "Gökyüzünde yüzen beyaz ya da gri kütle"
+  },
+  {
+   "n": 3,
+   "dir": "across",
+   "x": 3,
+   "y": 1,
+   "answer": "VAZO",
+   "clue": "İçine çiçek konan kap"
+  },
+  {
+   "n": 4,
+   "dir": "across",
+   "x": 2,
+   "y": 3,
+   "answer": "SONBAHAR",
+   "clue": "Yaprakların döküldüğü mevsim"
+  },
+  {
+   "n": 6,
+   "dir": "across",
+   "x": 0,
+   "y": 5,
+   "answer": "YAZ",
+   "clue": "Yılın en sıcak mevsimi"
+  },
+  {
+   "n": 7,
+   "dir": "across",
+   "x": 2,
+   "y": 6,
+   "answer": "CETVEL",
+   "clue": "Düz çizgi çizmeye ve ölçmeye yarayan araç"
+  },
+  {
+   "n": 8,
+   "dir": "across",
+   "x": 8,
+   "y": 7,
+   "answer": "UMUT",
+   "clue": "Ümit kelimesinin eş anlamlısı"
+  },
+  {
+   "n": 10,
+   "dir": "across",
+   "x": 2,
+   "y": 8,
+   "answer": "KİTAP",
+   "clue": "Ciltlenmiş, okunacak sayfalar"
+  },
+  {
+   "n": 13,
+   "dir": "across",
+   "x": 0,
+   "y": 10,
+   "answer": "MACERA",
+   "clue": "Serüven kelimesinin eş anlamlısı"
+  },
+  {
+   "n": 14,
+   "dir": "across",
+   "x": 7,
+   "y": 10,
+   "answer": "BARIŞ",
+   "clue": "Savaş kelimesinin zıt anlamlısı"
+  },
+  {
+   "n": 15,
+   "dir": "across",
+   "x": 3,
+   "y": 12,
+   "answer": "TİLKİ",
+   "clue": "Kurnazlığıyla bilinen hayvan"
+  },
+  {
+   "n": 1,
+   "dir": "down",
+   "x": 6,
+   "y": 0,
+   "answer": "BOYA",
+   "clue": "Bir şeyi renklendirmek için sürülen madde"
+  },
+  {
+   "n": 2,
+   "dir": "down",
+   "x": 10,
+   "y": 0,
+   "answer": "TAÇ",
+   "clue": "Kralın başına taktığı süs"
+  },
+  {
+   "n": 4,
+   "dir": "down",
+   "x": 2,
+   "y": 3,
+   "answer": "SÖZCÜK",
+   "clue": "Kelime kelimesinin eş anlamlısı"
+  },
+  {
+   "n": 5,
+   "dir": "down",
+   "x": 9,
+   "y": 3,
+   "answer": "RESİM",
+   "clue": "Fırçayla ya da kalemle yapılan çizim"
+  },
+  {
+   "n": 9,
+   "dir": "down",
+   "x": 11,
+   "y": 7,
+   "answer": "TAVŞAN",
+   "clue": "Uzun kulaklı, havuç seven hayvan"
+  },
+  {
+   "n": 11,
+   "dir": "down",
+   "x": 4,
+   "y": 8,
+   "answer": "TERZİ",
+   "clue": "Elbise diken kişi"
+  },
+  {
+   "n": 12,
+   "dir": "down",
+   "x": 1,
+   "y": 9,
+   "answer": "HARF",
+   "clue": "Yazıdaki her bir işaret"
+  }
+ ]
+}
