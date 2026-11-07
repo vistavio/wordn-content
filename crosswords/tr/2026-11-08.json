@@ -1,0 +1,167 @@
+{
+ "date": "2026-11-08",
+ "lang": "tr",
+ "width": 12,
+ "height": 13,
+ "secret": "BEREKET",
+ "secret_cells": [
+  [
+   8,
+   4
+  ],
+  [
+   2,
+   3
+  ],
+  [
+   0,
+   5
+  ],
+  [
+   6,
+   7
+  ],
+  [
+   9,
+   9
+  ],
+  [
+   1,
+   8
+  ],
+  [
+   4,
+   6
+  ]
+ ],
+ "words": [
+  {
+   "n": 3,
+   "dir": "across",
+   "x": 0,
+   "y": 1,
+   "answer": "DERİN",
+   "clue": "Sığ kelimesinin zıt anlamlısı"
+  },
+  {
+   "n": 6,
+   "dir": "across",
+   "x": 2,
+   "y": 4,
+   "answer": "KAPLUMBAĞA",
+   "clue": "Kabuğunu sırtında taşıyan yavaş hayvan"
+  },
+  {
+   "n": 7,
+   "dir": "across",
+   "x": 2,
+   "y": 6,
+   "answer": "PATATES",
+   "clue": "Kızartması sevilen yumru sebze"
+  },
+  {
+   "n": 9,
+   "dir": "across",
+   "x": 0,
+   "y": 8,
+   "answer": "MERAK",
+   "clue": "Bir şeyi öğrenme isteği"
+  },
+  {
+   "n": 11,
+   "dir": "across",
+   "x": 5,
+   "y": 9,
+   "answer": "ÇİÇEK",
+   "clue": "Bitkilerin renkli, güzel kokulu bölümü"
+  },
+  {
+   "n": 12,
+   "dir": "across",
+   "x": 1,
+   "y": 10,
+   "answer": "KEDİ",
+   "clue": "Miyavlayan evcil hayvan"
+  },
+  {
+   "n": 13,
+   "dir": "across",
+   "x": 7,
+   "y": 11,
+   "answer": "ZİL",
+   "clue": "Kapıda çalan, sesli araç"
+  },
+  {
+   "n": 1,
+   "dir": "down",
+   "x": 2,
+   "y": 0,
+   "answer": "ÖRNEK",
+   "clue": "Misal kelimesinin eş anlamlısı"
+  },
+  {
+   "n": 2,
+   "dir": "down",
+   "x": 10,
+   "y": 0,
+   "answer": "FOTOĞRAF",
+   "clue": "Makineyle çekilen görüntü"
+  },
+  {
+   "n": 3,
+   "dir": "down",
+   "x": 0,
+   "y": 1,
+   "answer": "DUVAR",
+   "clue": "Odaları birbirinden ayıran yapı bölümü"
+  },
+  {
+   "n": 4,
+   "dir": "down",
+   "x": 8,
+   "y": 1,
+   "answer": "OTOBÜS",
+   "clue": "Çok yolcu taşıyan büyük kara taşıtı"
+  },
+  {
+   "n": 5,
+   "dir": "down",
+   "x": 5,
+   "y": 3,
+   "answer": "ELMA",
+   "clue": "Kırmızı ya da yeşil renkli, sulu meyve"
+  },
+  {
+   "n": 7,
+   "dir": "down",
+   "x": 2,
+   "y": 6,
+   "answer": "PERDE",
+   "clue": "Pencereyi kapatan kumaş"
+  },
+  {
+   "n": 8,
+   "dir": "down",
+   "x": 6,
+   "y": 6,
+   "answer": "TEMİZ",
+   "clue": "Kirli kelimesinin zıt anlamlısı"
+  },
+  {
+   "n": 10,
+   "dir": "down",
+   "x": 8,
+   "y": 8,
+   "answer": "NEHİR",
+   "clue": "Denize ya da göle dökülen büyük akarsu"
+  },
+  {
+   "n": 12,
+   "dir": "down",
+   "x": 1,
+   "y": 10,
+   "answer": "KUM",
+   "clue": "Plajda bulunan ince taneler"
+  }
+ ]
+}
