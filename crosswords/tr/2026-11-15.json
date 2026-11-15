@@ -1,0 +1,171 @@
+{
+ "date": "2026-11-15",
+ "lang": "tr",
+ "width": 12,
+ "height": 12,
+ "secret": "MACERA",
+ "secret_cells": [
+  [
+   3,
+   4
+  ],
+  [
+   3,
+   6
+  ],
+  [
+   9,
+   2
+  ],
+  [
+   1,
+   8
+  ],
+  [
+   5,
+   10
+  ],
+  [
+   4,
+   7
+  ]
+ ],
+ "words": [
+  {
+   "n": 2,
+   "dir": "across",
+   "x": 9,
+   "y": 0,
+   "answer": "RAF",
+   "clue": "Duvara takılan, eşya konan tahta"
+  },
+  {
+   "n": 4,
+   "dir": "across",
+   "x": 3,
+   "y": 2,
+   "answer": "MOR",
+   "clue": "Menekşenin rengi"
+  },
+  {
+   "n": 6,
+   "dir": "across",
+   "x": 6,
+   "y": 3,
+   "answer": "ÇABA",
+   "clue": "Gayret kelimesinin eş anlamlısı"
+  },
+  {
+   "n": 8,
+   "dir": "across",
+   "x": 0,
+   "y": 4,
+   "answer": "YAĞMUR",
+   "clue": "Bulutlardan düşen su damlaları"
+  },
+  {
+   "n": 9,
+   "dir": "across",
+   "x": 6,
+   "y": 5,
+   "answer": "SALON",
+   "clue": "Misafirlerin ağırlandığı geniş oda"
+  },
+  {
+   "n": 10,
+   "dir": "across",
+   "x": 0,
+   "y": 6,
+   "answer": "TİYATRO",
+   "clue": "Oyunların sahnelendiği yer"
+  },
+  {
+   "n": 12,
+   "dir": "across",
+   "x": 6,
+   "y": 7,
+   "answer": "KÖPRÜ",
+   "clue": "Bir yerin iki yakasını birleştiren yapı"
+  },
+  {
+   "n": 14,
+   "dir": "across",
+   "x": 6,
+   "y": 9,
+   "answer": "KAPI",
+   "clue": "Bir yere girip çıkmayı sağlayan açıklık"
+  },
+  {
+   "n": 15,
+   "dir": "across",
+   "x": 1,
+   "y": 10,
+   "answer": "FİKİR",
+   "clue": "Düşünce kelimesinin eş anlamlısı"
+  },
+  {
+   "n": 1,
+   "dir": "down",
+   "x": 7,
+   "y": 0,
+   "answer": "RÜYA",
+   "clue": "Uykuda görülen şey"
+  },
+  {
+   "n": 2,
+   "dir": "down",
+   "x": 9,
+   "y": 0,
+   "answer": "RİCA",
+   "clue": "Emir kelimesinin zıt anlamlısı"
+  },
+  {
+   "n": 3,
+   "dir": "down",
+   "x": 4,
+   "y": 1,
+   "answer": "DOLU",
+   "clue": "Boş kelimesinin zıt anlamlısı"
+  },
+  {
+   "n": 5,
+   "dir": "down",
+   "x": 1,
+   "y": 3,
+   "answer": "HAZİNE",
+   "clue": "Değerli şeylerin saklandığı yer ya da bunların hepsi"
+  },
+  {
+   "n": 7,
+   "dir": "down",
+   "x": 8,
+   "y": 3,
+   "answer": "BAL",
+   "clue": "Arıların yaptığı tatlı besin"
+  },
+  {
+   "n": 9,
+   "dir": "down",
+   "x": 6,
+   "y": 5,
+   "answer": "SOKAK",
+   "clue": "Evlerin arasındaki yol"
+  },
+  {
+   "n": 11,
+   "dir": "down",
+   "x": 4,
+   "y": 6,
+   "answer": "TAKSİ",
+   "clue": "Parayla yolcu taşıyan sarı otomobil"
+  },
+  {
+   "n": 13,
+   "dir": "down",
+   "x": 2,
+   "y": 9,
+   "answer": "FİL",
+   "clue": "Hortumlu, iri hayvan"
+  }
+ ]
+}
