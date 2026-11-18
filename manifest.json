@@ -7,7 +7,7 @@
    "file": "kitchen_v1.zip",
    "size": 104400,
    "sha256": "e80185cf5c20655166524cc10e12e5f19e7b14de4c119aaac2dcf457d72f9bc7",
-   "url": "https://cdn.jsdelivr.net/gh/vistavio/wordn-content@5b04b8f9ec7ff72cf1ab1051a2524a5d00df5c3c/kitchen_v1.zip"
+   "url": "https://cdn.jsdelivr.net/gh/vistavio/wordn-content@214af82742442f8e6568acbab2777910489c921f/kitchen_v1.zip"
   },
   {
    "id": "garden",
@@ -16,7 +16,7 @@
    "file": "garden_v1.zip",
    "size": 233660,
    "sha256": "baf995e116e0ead7285cd7b624d3af30a8cca393f58f92c129939ba8180aae34",
-   "url": "https://cdn.jsdelivr.net/gh/vistavio/wordn-content@5b04b8f9ec7ff72cf1ab1051a2524a5d00df5c3c/garden_v1.zip"
+   "url": "https://cdn.jsdelivr.net/gh/vistavio/wordn-content@214af82742442f8e6568acbab2777910489c921f/garden_v1.zip"
   },
   {
    "id": "park",
@@ -25,7 +25,7 @@
    "file": "park_v2.zip",
    "size": 811012,
    "sha256": "83804b01ec8d432d4782bbf2424748df2a8418dfd6ef6d319a1e14be7e0e955b",
-   "url": "https://cdn.jsdelivr.net/gh/vistavio/wordn-content@5b04b8f9ec7ff72cf1ab1051a2524a5d00df5c3c/park_v2.zip"
+   "url": "https://cdn.jsdelivr.net/gh/vistavio/wordn-content@214af82742442f8e6568acbab2777910489c921f/park_v2.zip"
   },
   {
    "id": "shelter",
@@ -34,7 +34,7 @@
    "file": "shelter_v1.zip",
    "size": 680239,
    "sha256": "222c1a7ee1209e141e883e8eb46c724aa5dbcbb047347269291e4a621eda1e76",
-   "url": "https://cdn.jsdelivr.net/gh/vistavio/wordn-content@5b04b8f9ec7ff72cf1ab1051a2524a5d00df5c3c/shelter_v1.zip"
+   "url": "https://cdn.jsdelivr.net/gh/vistavio/wordn-content@214af82742442f8e6568acbab2777910489c921f/shelter_v1.zip"
   },
   {
    "id": "amusement_park",
@@ -43,7 +43,16 @@
    "file": "amusement_park_v2.zip",
    "size": 792107,
    "sha256": "20f5defabb2883db3c5ba36d1ebeaa8120f1ddfb68a0579919d7d30d52cb599c",
-   "url": "https://cdn.jsdelivr.net/gh/vistavio/wordn-content@5b04b8f9ec7ff72cf1ab1051a2524a5d00df5c3c/amusement_park_v2.zip"
+   "url": "https://cdn.jsdelivr.net/gh/vistavio/wordn-content@214af82742442f8e6568acbab2777910489c921f/amusement_park_v2.zip"
+  },
+  {
+   "id": "coast",
+   "version": 1,
+   "min_app": 4,
+   "file": "coast_v1.zip",
+   "size": 667379,
+   "sha256": "af37914889efee1e9d86fb08cf5687b592263394d33df82f2aba8bebfba7606c",
+   "url": "https://cdn.jsdelivr.net/gh/vistavio/wordn-content@214af82742442f8e6568acbab2777910489c921f/coast_v1.zip"
   }
  ]
 }
